@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\bin\Debug\五子棋AI-by照相.exe
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\bin\Debug\五子棋AI-by照相.pdb
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI_by照相.Form1.resources
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI_by照相.Properties.Resources.resources
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI-by照相.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI-by照相.exe
+\\mac\home\documents\visual studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI-by照相.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI-by照相.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2010\Projects\五子棋AI-by照相\五子棋AI-by照相\obj\x86\Debug\五子棋AI_by照相.Alert.resources
